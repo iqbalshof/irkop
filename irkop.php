@@ -7,7 +7,7 @@ $ban = "
 \e[1;31m║║\e[1;36;41m        INDONESIA      \e[1;38;40m║ ║  
 \e[1;32m║║\e[1;39;41m      MESIN TERMUX     \e[1;35;40m║ ║  
 \e[1;33m║║\e[1;39;41m        WONG JOWO      \e[1;34;40m║ ║
-\e[1;34m║║\e[1;33;47m                       \e[1;33;40m║ ║ \e[31;42m⏰ {$jam} ⏰\e[1;32;0m
+\e[1;34m║║\e[1;33;47m                       \e[1;33;40m║ ║ \e[31;42m⏰".date('H:i:s')."⏰\e[1;32;0m
 \e[1;35m║║\e[1;31;47m         WARNING       \e[1;32;40m║ ║\e[1;35m $cc
 \e[1;36m║║\e[0;31;47m   \033[1;31m ! NOT FOR SALE ! \e[1;36m  \e[1;36;40m║ ║
 \e[0;37m║╚═\e[1;36m═╝─╚\e[1;35m════\e[1;34m════\e[1;33m════\e[1;32m══╝─╚\e[1;31m═╝ ║
@@ -50,6 +50,6 @@ function ban(){
 for($i=0;$i<strlen($ban);$i++){
 echo $ban[$i];usleep(10000);}
 }
-$bann = ban();
-$irkop = irkop();
+
+
  
