@@ -3,8 +3,8 @@ full
 
 
 putra
-<iframe src="https://docs.google.com/spreadsheets/d/1M_C-zAhzEOvvOOTiZ9I4S7HcbwZLXp_9oNNQYYMvna8/edit?usp=sharing" width="100%" hegiht="600"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1iKqXs-Z1TnO7fMyFM5JC257SR9BAhB_Ql6U27W3clcQ/edit?usp=sharing" width="100%" height="100%"></iframe>
 
 
 putri
-<iframe src="https://docs.google.com/spreadsheets/d/1M_C-zAhzEOvvOOTiZ9I4S7HcbwZLXp_9oNNQYYMvna8/edit?usp=sharing" width="100%" hegiht="600"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1QCFfXgtZAamqoITI7zX1I2zafELGSacPdY6HxPW9ILs/edit?usp=sharing" width="100%" height="100%"></iframe>
